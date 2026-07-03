@@ -11,9 +11,7 @@ def round_scores(student_scores):
         list[int]: Student scores *rounded* to the nearest integer value.
     """
 
-    new_list =[]
-    for score in student_scores:
-        new_list.append(round(score))
+    new_list =[round(score) for score in student_scores]
     return new_list
 
 def count_failed_students(student_scores):
@@ -43,12 +41,8 @@ def above_threshold(student_scores, threshold):
         list[int]: Integer scores that are at or above the "best" threshold.
     """
 
-    thresholds=[]
-    for score in student_scores:
-        if score>=threshold:
-            thresholds.append(score)
+    thresholds=[score for score in student_scores if score >= threshold]
     return thresholds
-
 
 def letter_grades(highest):
     """Create a list of grade thresholds based on the provided highest grade.
