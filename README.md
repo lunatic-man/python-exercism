@@ -32,7 +32,7 @@ Solved Exercises:
 
 ## Week 3 
 Solved Exercises:
-- inventory-management: Intro to dictionaries, with basics of how to access the keys, values from a dictionary. Started using comprhensions from this week
+- inventory-management: Intro to dictionaries, with basics of how to access the keys, values from a dictionary. Started using comprehensions from this week
 - isbn-verifier: Created a ISBN verifier that first cleans the strings and then checks if the ISBN number is valid by performing modulo check
 - isogram: created a function to check if a string is an isogram or not, without any repeated letters. Main insight was of comparison len of new str and len of original string to check for repeated characters
 - making-the-grade: First exercise done which introduced me to comprehensions. Really good, check Python Fundamentals in [concepts.md](https://github.com/lunatic-man/ml-journey/blob/main/concepts.md) for in depth information
