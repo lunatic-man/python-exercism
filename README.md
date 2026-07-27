@@ -44,7 +44,7 @@ Solved Exercises:
 - tisbury-treasure-hunt: exercise for tuples, remember that tuples are unmutable and can be accessed via indexing similar to lists
 
 ## Week 4 
-Solved Exercise:
+Solved Exercises:
 - anagram: had to work with strings, still difficult to handle strings, learned to check using sorted to check both length and presence of letters of two different words.
 - binary-search: Implemented binary search, important note is knowing what condition to put in while loop and that you need to keep track of indexes directly
 - cater-waiter: one of the longest exercises ever, set manipulation is what was the main focus here
