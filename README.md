@@ -42,3 +42,16 @@ Solved Exercises:
 - rna-transcription: had to map every DNA strand to complementary RNA output. Did it again with dictionary mapping
 - rotational-cipher: Was a mind boggling exercise, mainly due to the headache of having to solve the problem of wraparound and I did not use modulo. Lesson learned to use modulo to wrap around
 - tisbury-treasure-hunt: exercise for tuples, remember that tuples are unmutable and can be accessed via indexing similar to lists
+
+## Week 4 
+Solved Exercise:
+- anagram: had to work with strings, still difficult to handle strings, learned to check using sorted to check both length and presence of letters of two different words.
+- binary-search: Implemented binary search, important note is knowing what condition to put in while loop and that you need to keep track of indexes directly
+- cater-waiter: one of the longest exercises ever, set manipulation is what was the main focus here
+- flatten-array: Easy problem, I remembered the point of using `extend()` to make a new list, but using recursion and using `isinstance()` were new to me. Added those to [concepts.md](https://github.com/lunatic-man/ml-journey/blob/main/concepts.md)
+- hamming: Easy problem, solved it straight up, a better use would have been of `zip()` to get tuples of elements at same index in both lists
+- line-up: Easy problem to solve, had to check the ones position and tens positions for particular numbers
+- resistor-color-duo: dictionary mapping helped a lot in this case, after that it was just a question of accessing using indexing
+- resistor-color-expert: long code, had to check individually on each case, and then plan for each edge case
+- resistor-color-trio: similar to resistor-color-duo, just had to give strings with metric prefixes. This was carried forward to resistor-color-expert too
+- secret-handshake: wrote code testing each index for action, checked MSB at last for reversing
