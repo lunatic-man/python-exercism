@@ -56,7 +56,7 @@ Solved Exercises:
 - secret-handshake: wrote code testing each index for action, checked MSB at last for reversing
 
 ## Week 5 
-Solved Exericses:
+Solved Exercises:
 - atbash-cipher: Exercise focused on string manipulation and handling, but I was able to rememeber the necessary modules and way of creating dictionaries to make the code slightly easier. I couldn't work on logic very well in this exercise. 
 - difference-of-squares: Easy exercise, had to calculate the sum of squares of first N natural numbers and square of sum of first N natural numbers and finally return the difference between the two.
 - ETL: This exercise was mainly about dictionary manipulation. Pretty easy to solve, just made a silly mistake of using enumerate() on dict instead of using dict.items()
