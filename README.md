@@ -1,4 +1,3 @@
-
 # Python Exercism 
 This repository is for tracking all the exercise I do on the website [Python Exercism](https://exercism.org/). I am currently solving the Python Track made up of 146 exercises in total. 
 
@@ -55,3 +54,19 @@ Solved Exercises:
 - resistor-color-expert: long code, had to check individually on each case, and then plan for each edge case
 - resistor-color-trio: similar to resistor-color-duo, just had to give strings with metric prefixes. This was carried forward to resistor-color-expert too
 - secret-handshake: wrote code testing each index for action, checked MSB at last for reversing
+
+## Week 5 
+Solved Exericses:
+- atbash-cipher: Exercise focused on string manipulation and handling, but I was able to rememeber the necessary modules and way of creating dictionaries to make the code slightly easier. I couldn't work on logic very well in this exercise. 
+- difference-of-squares: Easy exercise, had to calculate the sum of squares of first N natural numbers and square of sum of first N natural numbers and finally return the difference between the two.
+- ETL: This exercise was mainly about dictionary manipulation. Pretty easy to solve, just made a silly mistake of using enumerate() on dict instead of using dict.items()
+- list-ops: This exercise was one of the most annoying to solve this week, especially the `foldl/foldr` functions. Thankfully I was able to solve the other functions by building up from `length` function
+- matching-brackets: This exercise was also one of the tougher ones to solve, it involved a lot of stuff with `pop()` from a stack and how to run the code to find the next matching bracket. This is a pretty important question.
+- pig-latin: I did waste some time on this code until I learned that it was just about finding the split point. After that, it became pretty easy to switch around the phrases and get the pig latin equivalent
+- square-root: Used the most basic method to check the square root, maybe going ahead, I'll discover a more efficient method.
+- sublist: This was the most annoying question this week, it became a headache to solve and I had to ask Claude to explain it to me. But once I read the code I understood what they were asking us to do.
+- sum-of-multiples: This was a pretty easy exercise, just had to get all the unique factors of the numbers in the list of multiples and get the sum of them
+- two-fer: This was a one line code, but it introduced the concept of default values in parameters to me, pretty cool.
+
+## Week 6 
+Coming soon :)
