@@ -69,4 +69,17 @@ Solved Exercises:
 - two-fer: This was a one line code, but it introduced the concept of default values in parameters to me, pretty cool.
 
 ## Week 6 
-Coming soon :)
+Solved Exercises:
+- diamond: This was one of those exercises that tested my logic a lot, had to create the spaces and letters using loops and then duplicate the list in reverse order for creating the lower half of the diamond
+- eliuds-eggs: Simple exercise, had to convert the number to binary without using built in functions and count the total number of times 1 appeared in the binary form
+- ellens-alien-game: This introduced me to the concept of classes, here the only major thing different from Java is how every function must take self as the first and mandatory parameter. `__init__()` is same as constructor
+- gigasecond: this exercise was annoying me because I thought it would take long, but once I discovered `datetime` module, especially `timedelta`, it became very easy.
+- prime-factors: exactly what it says, just had to find the prime factors of the given number
+- protein-translation: sweet exercise to solve, created a dict and accessed elements from it to get the corresponding protein
+- say: this exercise was so annoying to solve, I gave up at last, and had to take AI's help. Strings are so annoying to deal with
+- scrabble-score: easy exercise again, created a mapping, used for loops and return the results
+- series: this was an easy exercise to solve because I could figure out the sliding window thing that I had done previously. Initially I wrote it as a for loop, but then I switched it up to a list comprehension.
+- twelve-days: this was hands down the most irritating exercise to solve, because I had to create two separate lists and work on them and join the correct elements to get the poem depending on the verse. Just ugh.
+
+## Week 7 
+Delivering Soon :)
